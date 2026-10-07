@@ -24,7 +24,7 @@
 
 I build at the point where LLMs meet real systems:
 
-- ☁️ Founding **GPUwerk**, an AI cloud, and **Landomo**, a real estate aggregator
+- ☁️ Building **GPUwerk**, an AI cloud, and running **Landomo**, a real estate aggregator
 - 🔌 **MCP servers** that let agents operate real products, with typed tools and tests, not demos
 - 📚 **Retrieval with receipts**: answers whose citations are *mechanically verified*, not vibes-checked
 - 🤖 **Autonomous agent setups** that run on schedules and own a job end to end
@@ -39,7 +39,7 @@ I build at the point where LLMs meet real systems:
 <td width="50%" valign="top">
 
 ### ☁️ GPUwerk
-An **AI cloud**: GPU compute built for teams that train and run AI models.
+I'm building an **AI cloud**.
 
 ![Status](https://img.shields.io/badge/status-building-3b82f6?style=flat-square)
 ![GPU](https://img.shields.io/badge/-GPU_cloud-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -48,9 +48,8 @@ An **AI cloud**: GPU compute built for teams that train and run AI models.
 <td width="50%" valign="top">
 
 ### 🏘️ Landomo
-A **real estate aggregator**: listings from many sources in one place, powered by scraping infrastructure and autonomous agents.
+My **real estate aggregator**.
 
-![Status](https://img.shields.io/badge/status-live-16A34A?style=flat-square)
 ![Real estate](https://img.shields.io/badge/-Real_estate-F59E0B?style=flat-square)
 
 </td>
