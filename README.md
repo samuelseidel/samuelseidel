@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117%2C50:1f3a5f%2C100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe%2C50:93c5fd%2C100:3b82f6&text=Samuel%20Seidel&fontColor=0f172a&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
-  <img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20" width="100%">
-</picture>
+<img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20" width="100%">
 
 <a href="https://github.com/samuelseidel">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=3B82F6&center=true&vCenter=true&width=640&lines=I+give+AI+agents+real+tools.;I+make+LLM+answers+checkable.;I+ship+TypeScript+%26+Python+that+holds+up.;Based+in+the+Czech+Republic+%F0%9F%87%A8%F0%9F%87%BF" alt="Typing intro">
@@ -24,7 +20,7 @@
 
 I build at the point where LLMs meet real systems:
 
-- ☁️ Building **GPUwerk**, an AI cloud, and running **Landomo**, a real estate aggregator
+- ☁️ Building **GPUwerk** (an AI cloud) and **OhMyMiles** (a Tesla data platform), and running **Landomo**, a real estate aggregator
 - 🔌 **MCP servers** that let agents operate real products, with typed tools and tests, not demos
 - 📚 **Retrieval with receipts**: answers whose citations are *mechanically verified*, not vibes-checked
 - 🤖 **Autonomous agent setups** that run on schedules and own a job end to end
@@ -36,21 +32,33 @@ I build at the point where LLMs meet real systems:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ☁️ GPUwerk
 I'm building an **AI cloud**.
 
-![Status](https://img.shields.io/badge/status-building-3b82f6?style=flat-square)
-![GPU](https://img.shields.io/badge/-GPU_cloud-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![GPU cloud](https://img.shields.io/badge/-GPU cloud-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏘️ Landomo
 My **real estate aggregator**.
 
-![Real estate](https://img.shields.io/badge/-Real_estate-F59E0B?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Scraping](https://img.shields.io/badge/-Scraping-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ OhMyMiles
+A **Tesla data platform**.
+
+![Tesla](https://img.shields.io/badge/-Tesla-CC0000?style=flat-square&logo=tesla&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -68,8 +76,11 @@ Unofficial **Model Context Protocol server for Alza.cz** with **41 tools**: cata
 Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-tested.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -79,9 +90,13 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 
 **100% citation verification** on the golden-set eval.
 
-![Python](https://img.shields.io/badge/-RAG-3776AB?style=flat-square&logo=python&logoColor=white)
-![Graph](https://img.shields.io/badge/-Graph_retrieval-8B5CF6?style=flat-square)
-![Evals](https://img.shields.io/badge/-Golden--set_evals-16A34A?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Graph retrieval](https://img.shields.io/badge/-Graph retrieval-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -93,11 +108,7 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cnodejs%2Creact%2Cnextjs%2Ctailwind%2Cpostgres%2Cdocker%2Cgit%2Clinux%2Cvscode&theme=dark&perline=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cnodejs%2Creact%2Cnextjs%2Ctailwind%2Cpostgres%2Cdocker%2Cgit%2Clinux%2Cvscode&theme=light&perline=12">
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,nextjs,tailwind,postgres,docker,git,linux,vscode&perline=12">
-</picture>
+<img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,nextjs,tailwind,postgres,docker,git,linux,vscode&perline=12">
 
 </div>
 
@@ -151,9 +162,5 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117%2C50:1f3a5f%2C100:3b82f6&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:dbeafe%2C50:93c5fd%2C100:3b82f6&section=footer">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,50:1f3a5f,100:3b82f6&section=footer" width="100%">
-</picture>
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,50:1f3a5f,100:3b82f6&section=footer" width="100%">
 </div>
