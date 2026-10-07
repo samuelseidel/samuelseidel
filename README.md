@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=58&descSize=17&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:dbeafe,50:93c5fd,100:3b82f6&text=Samuel%20Seidel&fontColor=0f172a&fontSize=52&fontAlignY=38&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=58&descSize=17&animation=fadeIn">
-  <img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=58&descSize=17&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe,50:93c5fd,100:3b82f6&text=Samuel%20Seidel&fontColor=0f172a&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
+  <img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20" width="100%">
 </picture>
 
 <a href="https://github.com/samuelseidel">
@@ -12,7 +12,7 @@
 
 <br><br>
 
-![Bloomreach](https://img.shields.io/badge/Bloomreach-0B1F3A?style=for-the-badge&logoColor=white)
+
 ![Location](https://img.shields.io/badge/Czech_Republic-11457E?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Profile views](https://komarev.com/ghpvc/?username=samuelseidel&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS)
 
@@ -22,7 +22,7 @@
 
 ## 👋 About
 
-I work at **Bloomreach** and build on the side at the point where LLMs meet real systems:
+I build at the point where LLMs meet real systems:
 
 - 🔌 **MCP servers** that let agents operate real products, with typed tools and tests, not demos
 - 📚 **Retrieval with receipts**: answers whose citations are *mechanically verified*, not vibes-checked
@@ -121,7 +121,7 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-samuelseidel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelseidel)
+[![GitHub](https://img.shields.io/badge/GitHub-samuelseidel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelseidel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-seidel--samuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seidel-samuel)
 
 </div>
 
