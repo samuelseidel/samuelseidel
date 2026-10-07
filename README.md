@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe,50:93c5fd,100:3b82f6&text=Samuel%20Seidel&fontColor=0f172a&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117%2C50:1f3a5f%2C100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:dbeafe%2C50:93c5fd%2C100:3b82f6&text=Samuel%20Seidel&fontColor=0f172a&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20">
   <img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20" width="100%">
 </picture>
 
@@ -94,8 +94,8 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,nextjs,tailwind,postgres,docker,git,linux,vscode&theme=dark&perline=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,nextjs,tailwind,postgres,docker,git,linux,vscode&theme=light&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cnodejs%2Creact%2Cnextjs%2Ctailwind%2Cpostgres%2Cdocker%2Cgit%2Clinux%2Cvscode&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cnodejs%2Creact%2Cnextjs%2Ctailwind%2Cpostgres%2Cdocker%2Cgit%2Clinux%2Cvscode&theme=light&perline=12">
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,nextjs,tailwind,postgres,docker,git,linux,vscode&perline=12">
 </picture>
 
@@ -152,8 +152,8 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,50:1f3a5f,100:3b82f6&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:dbeafe,50:93c5fd,100:3b82f6&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117%2C50:1f3a5f%2C100:3b82f6&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:dbeafe%2C50:93c5fd%2C100:3b82f6&section=footer">
   <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0d1117,50:1f3a5f,100:3b82f6&section=footer" width="100%">
 </picture>
 </div>
