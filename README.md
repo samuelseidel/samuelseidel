@@ -1,16 +1,17 @@
 <div align="center">
 
-<img alt="Samuel Seidel" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:1f3a5f,100:3b82f6&text=Samuel%20Seidel&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Engineer%20%C2%B7%20AI%20agents%20%C2%B7%20MCP%20%C2%B7%20Retrieval%20you%20can%20verify&descAlignY=54&descSize=20" width="100%">
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:1f3a5f,100:3b82f6" width="100%">
 
-<a href="https://github.com/samuelseidel">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=3B82F6&center=true&vCenter=true&width=640&lines=I+give+AI+agents+real+tools.;I+make+LLM+answers+checkable.;I+ship+TypeScript+%26+Python+that+holds+up.;Based+in+the+Czech+Republic+%F0%9F%87%A8%F0%9F%87%BF" alt="Typing intro">
-</a>
+# Samuel Seidel
 
-<br><br>
+**Engineer · AI agents · MCP · Retrieval you can verify**
+
+<sub>I give AI agents real tools. I make LLM answers checkable. I ship TypeScript &amp; Python that holds up.</sub>
+
+<br>
 
 
 ![Location](https://img.shields.io/badge/Czech_Republic-11457E?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=samuelseidel&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -37,7 +38,7 @@ I build at the point where LLMs meet real systems:
 ### ☁️ GPUwerk
 I'm building an **AI cloud**.
 
-![GPU cloud](https://img.shields.io/badge/-GPU cloud-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![GPU cloud](https://img.shields.io/badge/-GPU%20cloud-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -96,7 +97,7 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Graph retrieval](https://img.shields.io/badge/-Graph retrieval-8B5CF6?style=flat-square)
+![Graph retrieval](https://img.shields.io/badge/-Graph%20retrieval-8B5CF6?style=flat-square)
 
 </td>
 </tr>
@@ -143,7 +144,7 @@ Playwright-backed (gets past Cloudflare bot protection), fully typed and unit-te
   <img alt="Streak" src="https://streak-stats.demolab.com?user=samuelseidel&hide_border=true">
 </picture>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelseidel/samuelseidel/output/github-snake-dark.svg">
